@@ -58,5 +58,5 @@ and run "python3 extract_prot.py", the pLMs embedding matrixs will be extracted 
 
 ## 5.3 Train and test
 
-1. cd to the ATP-TLDeep dictionary,and run "python3 ATP-Deep.py" for training and testing the model
+1. cd to the ATP-Deep dictionary,and run "python3 ATP-Deep.py" for training and testing the model
 
