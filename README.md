@@ -44,19 +44,19 @@ atp-549.txt: this file contains 549 ATP binding proteins used for model training
 
 ## 5.1 Set up environment for HMM and ProtTrans
 1. Download hh-suite v3.3.0 from https://github.com/soedinglab/hh-suite and compile the source.
-2. Download UniRef30_2022_02 dataset from https://gwdu111.gwdg.de/~compbiol/uniclust/2023_02/ 
+2. Download UniRef30_2022_02 dataset from https://gwdu111.gwdg.de/~compbiol/uniclust/2023_02/ .
 3. Set ProtTrans follow procedure from https://github.com/agemagician/ProtTrans/tree/master.
 
 ## 5.2 Extract features
 
 1. Extract HMM feature: cd to the ATP-Deep/feature_extract dictionary, 
 and run "python3 extract_hhm.py and python3 generate-hhm-frequency.py",
-the HMM matrixs will be extracted to Dataset/hhdatasethhm fold
+the HMM matrixs will be extracted to Dataset/hhdatasethhm fold.
 
 2. Extract pLMs embedding: cd to the ATP-Deep/feature_extract dictionary, 
-and run "python3 extract_prot.py", the pLMs embedding matrixs will be extracted to Dataset/prot_embedding fold
+and run "python3 extract_prot.py", the pLMs embedding matrixs will be extracted to Dataset/prot_embedding fold.
 
 ## 5.3 Train and test
 
-1. cd to the ATP-Deep dictionary,and run "python3 ATP-Deep.py" for training and testing the model
+1. cd to the ATP-Deep dictionary,and run "python3 ATP-Deep.py" for training and testing the model.
 
