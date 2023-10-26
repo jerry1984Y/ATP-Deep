@@ -1,5 +1,5 @@
 # ATP-Deep
-Prediction of Protein-ATP Binding Residues Using Multi view Feature Learning via Contextual-based Co-attention Network
+Prediction of Protein-ATP Binding Residues Using Multi-view Feature Learning via Contextual-based Co-attention Network
 
 # 1. Citation
 coming soon
