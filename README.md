@@ -31,14 +31,15 @@ feature with its corresponding protein-level information.
 
 atp-388.txt: this file contains 388 ATP binding proteins used for model training
 
-atp-41-for-388.txt: this file contains 41 ATP binding proteins used for model testing
+atp-41-for-388.txt: this file contains 41 ATP binding proteins used for model test
 
 atp-227.txt:this file contains 227 ATP binding proteins used for model training
 
-atp-17-for-227.txt: this file contains 17 ATP binding proteins used for model testing
+atp-17-for-227.txt: this file contains 17 ATP binding proteins used for model test
 
 atp-549.txt: this file contains 549 ATP binding proteins used for model training
 
+atp-202.txt: this file contains 202 ATP binding proteins used for model test
 
 # 5. How to Use
 
